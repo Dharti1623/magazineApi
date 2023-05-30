@@ -1,3 +1,3 @@
 [submodule ".dart_frog/server.dart"]
 	path = .dart_frog/server.dart
-	url = https://github.com/Dharti1623/Dharti1623.github.io/tree/main/
+	url = git:https://github.com/Dharti1623/Dharti1623.github.io/tree/main/
