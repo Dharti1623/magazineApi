@@ -7,7 +7,6 @@ pubspec.lock
 .idea/
 
 # Files and directories created by dart_frog
-build/
 
 # Test related files
 coverage/
