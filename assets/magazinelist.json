@@ -4,57 +4,57 @@
     "magazine_id": "1",
     "magazine_name": "avengers infinity war",
     "magazine_description": "MARVEL STUDIOS' AVENGERS: INFINITY WAR, The Avengers risk it all in a showdown with Thanos.",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/01_avengers_infinity_war.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/01_avengers_infinity_war.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/01_avengers_infinity_war.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/01_avengers_infinity_war.pdf"
   },
   {
     "magazine_id": "2",
     "magazine_name": "Rich Dad Poor Dad",
     "magazine_description": "What The Rich Teach Their Kids About Money—\r\nThat The Poor And Middle Class Do Not!\r\nBy Robert T. Kiyosaki",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/02_Rich_Dad_Poor_Dad.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/02_Rich_Dad_Poor_Dad.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/02_Rich_Dad_Poor_Dad.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/02_Rich_Dad_Poor_Dad.pdf"
   },
   {
     "magazine_id": "3",
     "magazine_name": "spiderman comic",
     "magazine_description": "spiderman comic",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/03_spiderman_comic.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/03_spiderman_comic.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/03_spiderman_comic.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/03_spiderman_comic.pdf"
   },
   {
     "magazine_id": "4",
     "magazine_name": "The 5 Second-Rule",
     "magazine_description": "The events described in this book are real. No names have been changed.The social media posts that appear throughout this book are the actual posts",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/04_The_5_Second_Rule.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/04_The_5_Second_Rule.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/04_The_5_Second_Rule.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/04_The_5_Second_Rule.pdf"
   },
   {
     "magazine_id": "5",
     "magazine_name": "Feng Shui",
     "magazine_description": "FENG SHUI HOMEBUYERS INTERIOR",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/05_Feng_Shui.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/05_Feng_Shui.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/05_Feng_Shui.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/05_Feng_Shui.pdf"
   },
   {
     "magazine_id": "6",
     "magazine_name": "FW OUTDOOR MEM APR2014",
     "magazine_description": "Guide to the best woods and finishes. Outdoor, Step-by-step plans for deck, yard, and garden",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/06_FW_OUTDOOR_MEM_APR2014.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/06_FW_OUTDOOR_MEM_APR2014.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/06_FW_OUTDOOR_MEM_APR2014.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/06_FW_OUTDOOR_MEM_APR2014.pdf"
   },
   {
     "magazine_id": "7",
     "magazine_name": "Internet of Things",
     "magazine_description": "The Internet of Things—digitizing the physical world—has received enormous attention. In this research, the McKinsey Global Institute set out to look beyond the hype to understand exactly how IoT technology can create real economic value.",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/07_Internet_of_Things.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/07_Internet_of_Things.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/07_Internet_of_Things.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/07_Internet_of_Things.pdf"
   },
   {
     "magazine_id": "8",
     "magazine_name": "Web Programming with Dart",
     "magazine_description": "Dart is an open-source, structured, and flexible programming language developed by Google, particularly oriented for web development, but not exclusively.",
-    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/img/08_Web_Programming_with_Dart.png",
-    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazine/main/assets/pdf/08_Web_Programming_with_Dart.pdf"
+    "magazine_thumbnail": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/img/08_Web_Programming_with_Dart.png",
+    "magazine_url": "https://raw.githubusercontent.com/Dharti1623/magazineApi/main/assets/pdf/08_Web_Programming_with_Dart.pdf"
   }
 ]
 }
